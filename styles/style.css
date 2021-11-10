@@ -1,0 +1,42 @@
+body{
+    background-color: silver;
+    margin: 30px 200px;
+    text-align: center;
+    font-size: 24px;
+    color: black;
+}
+h1, h2, h3{
+    font-size: 32px;
+    background-color: black;
+    color: orange;
+}
+h6{
+    background-color: grey;
+    font-size: 24px;
+}
+h1{
+    font-size: 48px;
+}
+ul{
+    background-color: orange;
+}
+ol{
+    background-color: orangered;
+}
+li{
+    padding: 20px 0;
+    font-weight: bold;
+    text-align: left;
+}
+p {
+    background-color: white;
+    text-align: left;
+    padding: 20px;
+}
+#big-box li{
+    font-size: 36px;
+    padding: 50px 0;
+}
+img{
+    height: auto;
+}
